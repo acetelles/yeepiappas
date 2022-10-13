@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    color: rgb(110, 61, 69);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 45px;
+    font-weight: 450;
+}
+
+#app {
+    background-color: rgb(172, 216, 255);
+}
+
+#game {
+    background-color: darksalmon;
+}
+
+#chatbot {
+    background-color: rgb(179, 107, 214);
+}
+
+.line {
+    background-color: rgb(105, 32, 32);
+    width: 78px;
+    margin: 8px auto;
+    height: 6px;
+}
